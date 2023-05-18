@@ -1,0 +1,48 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.input{
+    border: none;
+    background-color:rgb(207 202 197);
+    outline:none
+
+}
+.seach{
+    border: 1px solid white;
+    border-radius: 15px;
+    background-color:rgb(207 202 197);
+    padding: 5px 583px 5px 7px;
+}
+.container{
+    width: 800px;
+    margin: auto;
+}
+.comment {
+    margin-top: 27px;
+    width: 179px;
+    height: 214px;
+    background-color: rgb(195, 212, 212);
+    margin-left: 12px;
+}
+.inputtext{
+    outline:none;
+    border: none;
+    background-color: rgb(195, 212, 212);
+    padding-bottom: 153px;
+}
+.gui {
+    padding-left: 100px;
+}
+.full{
+    display: flex;
+    justify-content: left;
+    columns: 4;
+}
+.noidung{
+    padding-top: 133px;
+    padding-left: 139px;
+}
+.noidungtext{
+    padding-left: 12px;
+}
